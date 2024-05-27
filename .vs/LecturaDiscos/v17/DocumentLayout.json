@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D19EACC-821F-4E6D-82DC-D77C6B317363}|proyecto1\\proyecto1.csproj|d:\\maxiprograma\\nivel 2\\u8\\lecturadiscos\\proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D19EACC-821F-4E6D-82DC-D77C6B317363}|proyecto1\\proyecto1.csproj|solutionrelative:proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DED3DF7-3164-4F7B-BD7D-0467931905A4}|negocio\\negocio.csproj|D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\negocio\\edicionnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DED3DF7-3164-4F7B-BD7D-0467931905A4}|negocio\\negocio.csproj|solutionrelative:negocio\\edicionnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DED3DF7-3164-4F7B-BD7D-0467931905A4}|negocio\\negocio.csproj|D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\negocio\\disconegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DED3DF7-3164-4F7B-BD7D-0467931905A4}|negocio\\negocio.csproj|solutionrelative:negocio\\disconegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D19EACC-821F-4E6D-82DC-D77C6B317363}|proyecto1\\proyecto1.csproj|D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\proyecto1\\frmagregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D19EACC-821F-4E6D-82DC-D77C6B317363}|proyecto1\\proyecto1.csproj|solutionrelative:proyecto1\\frmagregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D19EACC-821F-4E6D-82DC-D77C6B317363}|proyecto1\\proyecto1.csproj|D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\proyecto1\\frmagregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D19EACC-821F-4E6D-82DC-D77C6B317363}|proyecto1\\proyecto1.csproj|solutionrelative:proyecto1\\frmagregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D19EACC-821F-4E6D-82DC-D77C6B317363}|proyecto1\\proyecto1.csproj|D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D19EACC-821F-4E6D-82DC-D77C6B317363}|proyecto1\\proyecto1.csproj|solutionrelative:proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DED3DF7-3164-4F7B-BD7D-0467931905A4}|negocio\\negocio.csproj|D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\negocio\\estilonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DED3DF7-3164-4F7B-BD7D-0467931905A4}|negocio\\negocio.csproj|solutionrelative:negocio\\estilonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAgregar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\proyecto1\\frmAgregar.cs",
+              "RelativeDocumentMoniker": "proyecto1\\frmAgregar.cs",
+              "ToolTip": "D:\\MaxiPrograma\\U7\\LecturaDiscosInsertarCompleto(Clase 3)\\proyecto1\\frmAgregar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\U7\\LecturaDiscosInsertarCompleto(Clase 3)\\proyecto1\\frmAgregar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-27T16:14:29.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAgregar.cs",
+              "DocumentMoniker": "D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\proyecto1\\frmAgregar.cs",
+              "RelativeDocumentMoniker": "proyecto1\\frmAgregar.cs",
+              "ToolTip": "D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\proyecto1\\frmAgregar.cs",
+              "RelativeToolTip": "proyecto1\\frmAgregar.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-27T16:14:29.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\proyecto1\\Form1.cs",
+              "RelativeDocumentMoniker": "proyecto1\\Form1.cs",
+              "ToolTip": "D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\proyecto1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:14:29.738Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\proyecto1\\Form1.cs",
+              "RelativeDocumentMoniker": "proyecto1\\Form1.cs",
+              "ToolTip": "D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\proyecto1\\Form1.cs",
+              "RelativeToolTip": "proyecto1\\Form1.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowEYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-27T16:14:29.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiscoNegocio.cs",
+              "DocumentMoniker": "D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\negocio\\DiscoNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\DiscoNegocio.cs",
+              "ToolTip": "D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\negocio\\DiscoNegocio.cs",
+              "RelativeToolTip": "negocio\\DiscoNegocio.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowHoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:14:29.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EdicionNegocio.cs",
+              "DocumentMoniker": "D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\negocio\\EdicionNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\EdicionNegocio.cs",
+              "ToolTip": "D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\negocio\\EdicionNegocio.cs",
+              "RelativeToolTip": "negocio\\EdicionNegocio.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:14:29.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EstiloNegocio.cs",
+              "DocumentMoniker": "D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\negocio\\EstiloNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\EstiloNegocio.cs",
+              "ToolTip": "D:\\MaxiPrograma\\Nivel 2\\U8\\LecturaDiscos\\negocio\\EstiloNegocio.cs",
+              "RelativeToolTip": "negocio\\EstiloNegocio.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:14:29.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

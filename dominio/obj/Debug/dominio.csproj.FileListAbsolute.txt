@@ -1,0 +1,24 @@
+D:\MaxiPrograma\U7\LecturaDiscos\dominio\bin\Debug\dominio.dll
+D:\MaxiPrograma\U7\LecturaDiscos\dominio\bin\Debug\dominio.pdb
+D:\MaxiPrograma\U7\LecturaDiscos\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\MaxiPrograma\U7\LecturaDiscos\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\MaxiPrograma\U7\LecturaDiscos\dominio\obj\Debug\dominio.dll
+D:\MaxiPrograma\U7\LecturaDiscos\dominio\obj\Debug\dominio.pdb
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\dominio\bin\Debug\dominio.dll
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\dominio\bin\Debug\dominio.pdb
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\dominio\obj\Debug\dominio.dll
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\dominio\obj\Debug\dominio.pdb
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\dominio\bin\Debug\dominio.dll
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\dominio\bin\Debug\dominio.pdb
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\dominio\obj\Debug\dominio.dll
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\dominio\obj\Debug\dominio.pdb
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\dominio\bin\Debug\dominio.dll
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\dominio\bin\Debug\dominio.pdb
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\dominio\obj\Debug\dominio.dll
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\dominio\obj\Debug\dominio.pdb

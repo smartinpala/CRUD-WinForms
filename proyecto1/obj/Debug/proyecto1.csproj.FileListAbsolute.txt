@@ -1,0 +1,77 @@
+D:\MaxiPrograma\U6\LecturaDiscos\proyecto1\bin\Debug\proyecto1.exe.config
+D:\MaxiPrograma\U6\LecturaDiscos\proyecto1\bin\Debug\proyecto1.exe
+D:\MaxiPrograma\U6\LecturaDiscos\proyecto1\bin\Debug\proyecto1.pdb
+D:\MaxiPrograma\U6\LecturaDiscos\proyecto1\obj\Debug\proyecto1.csproj.AssemblyReference.cache
+D:\MaxiPrograma\U6\LecturaDiscos\proyecto1\obj\Debug\proyecto1.csproj.SuggestedBindingRedirects.cache
+D:\MaxiPrograma\U6\LecturaDiscos\proyecto1\obj\Debug\proyecto1.Form1.resources
+D:\MaxiPrograma\U6\LecturaDiscos\proyecto1\obj\Debug\proyecto1.Properties.Resources.resources
+D:\MaxiPrograma\U6\LecturaDiscos\proyecto1\obj\Debug\proyecto1.csproj.GenerateResource.cache
+D:\MaxiPrograma\U6\LecturaDiscos\proyecto1\obj\Debug\proyecto1.csproj.CoreCompileInputs.cache
+D:\MaxiPrograma\U6\LecturaDiscos\proyecto1\obj\Debug\proyecto1.exe
+D:\MaxiPrograma\U6\LecturaDiscos\proyecto1\obj\Debug\proyecto1.pdb
+D:\MaxiPrograma\U7\LecturaDiscos\proyecto1\bin\Debug\proyecto1.exe.config
+D:\MaxiPrograma\U7\LecturaDiscos\proyecto1\bin\Debug\proyecto1.exe
+D:\MaxiPrograma\U7\LecturaDiscos\proyecto1\bin\Debug\proyecto1.pdb
+D:\MaxiPrograma\U7\LecturaDiscos\proyecto1\obj\Debug\proyecto1.csproj.AssemblyReference.cache
+D:\MaxiPrograma\U7\LecturaDiscos\proyecto1\obj\Debug\proyecto1.csproj.SuggestedBindingRedirects.cache
+D:\MaxiPrograma\U7\LecturaDiscos\proyecto1\obj\Debug\proyecto1.Form1.resources
+D:\MaxiPrograma\U7\LecturaDiscos\proyecto1\obj\Debug\proyecto1.Properties.Resources.resources
+D:\MaxiPrograma\U7\LecturaDiscos\proyecto1\obj\Debug\proyecto1.csproj.GenerateResource.cache
+D:\MaxiPrograma\U7\LecturaDiscos\proyecto1\obj\Debug\proyecto1.csproj.CoreCompileInputs.cache
+D:\MaxiPrograma\U7\LecturaDiscos\proyecto1\obj\Debug\proyecto1.exe
+D:\MaxiPrograma\U7\LecturaDiscos\proyecto1\obj\Debug\proyecto1.pdb
+D:\MaxiPrograma\U7\LecturaDiscos\proyecto1\bin\Debug\dominio.dll
+D:\MaxiPrograma\U7\LecturaDiscos\proyecto1\bin\Debug\dominio.pdb
+D:\MaxiPrograma\U7\LecturaDiscos\proyecto1\obj\Debug\proyecto1.csproj.CopyComplete
+D:\MaxiPrograma\U7\LecturaDiscos\proyecto1\bin\Debug\negocio.dll
+D:\MaxiPrograma\U7\LecturaDiscos\proyecto1\bin\Debug\negocio.pdb
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\proyecto1\bin\Debug\proyecto1.exe.config
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\proyecto1\bin\Debug\proyecto1.exe
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\proyecto1\bin\Debug\proyecto1.pdb
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\proyecto1\bin\Debug\dominio.dll
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\proyecto1\bin\Debug\negocio.dll
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\proyecto1\bin\Debug\dominio.pdb
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\proyecto1\bin\Debug\negocio.pdb
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\proyecto1\obj\Debug\proyecto1.csproj.AssemblyReference.cache
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\proyecto1\obj\Debug\proyecto1.csproj.SuggestedBindingRedirects.cache
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\proyecto1\obj\Debug\proyecto1.Form1.resources
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\proyecto1\obj\Debug\proyecto1.Properties.Resources.resources
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\proyecto1\obj\Debug\proyecto1.csproj.GenerateResource.cache
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\proyecto1\obj\Debug\proyecto1.csproj.CoreCompileInputs.cache
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\proyecto1\obj\Debug\proyecto1.csproj.CopyComplete
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\proyecto1\obj\Debug\proyecto1.exe
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\proyecto1\obj\Debug\proyecto1.pdb
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\proyecto1\obj\Debug\proyecto1.frmAgregar.resources
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\proyecto1\bin\Debug\proyecto1.exe.config
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\proyecto1\bin\Debug\proyecto1.exe
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\proyecto1\bin\Debug\proyecto1.pdb
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\proyecto1\bin\Debug\dominio.dll
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\proyecto1\bin\Debug\negocio.dll
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\proyecto1\bin\Debug\dominio.pdb
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\proyecto1\bin\Debug\negocio.pdb
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\proyecto1\obj\Debug\proyecto1.csproj.AssemblyReference.cache
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\proyecto1\obj\Debug\proyecto1.csproj.SuggestedBindingRedirects.cache
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\proyecto1\obj\Debug\proyecto1.Form1.resources
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\proyecto1\obj\Debug\proyecto1.frmAgregar.resources
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\proyecto1\obj\Debug\proyecto1.Properties.Resources.resources
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\proyecto1\obj\Debug\proyecto1.csproj.GenerateResource.cache
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\proyecto1\obj\Debug\proyecto1.csproj.CoreCompileInputs.cache
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\proyecto1\obj\Debug\proyecto1.csproj.CopyComplete
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\proyecto1\obj\Debug\proyecto1.exe
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\proyecto1\obj\Debug\proyecto1.pdb
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\proyecto1\bin\Debug\proyecto1.exe.config
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\proyecto1\bin\Debug\proyecto1.exe
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\proyecto1\bin\Debug\proyecto1.pdb
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\proyecto1\bin\Debug\dominio.dll
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\proyecto1\bin\Debug\negocio.dll
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\proyecto1\bin\Debug\dominio.pdb
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\proyecto1\bin\Debug\negocio.pdb
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\proyecto1\obj\Debug\proyecto1.csproj.AssemblyReference.cache
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\proyecto1\obj\Debug\proyecto1.Form1.resources
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\proyecto1\obj\Debug\proyecto1.frmAgregar.resources
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\proyecto1\obj\Debug\proyecto1.Properties.Resources.resources
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\proyecto1\obj\Debug\proyecto1.csproj.GenerateResource.cache
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\proyecto1\obj\Debug\proyecto1.csproj.CoreCompileInputs.cache
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\proyecto1\obj\Debug\proyecto1.csproj.Up2Date
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\proyecto1\obj\Debug\proyecto1.exe
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\proyecto1\obj\Debug\proyecto1.pdb

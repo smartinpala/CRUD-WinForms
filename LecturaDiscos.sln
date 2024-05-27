@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyecto1", "proyecto1\proyecto1.csproj", "{9D19EACC-821F-4E6D-82DC-D77C6B317363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{577E58B5-82E5-4BB1-B73D-9AD03B717AFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{2DED3DF7-3164-4F7B-BD7D-0467931905A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D19EACC-821F-4E6D-82DC-D77C6B317363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D19EACC-821F-4E6D-82DC-D77C6B317363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D19EACC-821F-4E6D-82DC-D77C6B317363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D19EACC-821F-4E6D-82DC-D77C6B317363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{577E58B5-82E5-4BB1-B73D-9AD03B717AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577E58B5-82E5-4BB1-B73D-9AD03B717AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577E58B5-82E5-4BB1-B73D-9AD03B717AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577E58B5-82E5-4BB1-B73D-9AD03B717AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DED3DF7-3164-4F7B-BD7D-0467931905A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DED3DF7-3164-4F7B-BD7D-0467931905A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DED3DF7-3164-4F7B-BD7D-0467931905A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DED3DF7-3164-4F7B-BD7D-0467931905A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBA61E67-9DC0-420C-9551-79D27DE63058}
+	EndGlobalSection
+EndGlobal

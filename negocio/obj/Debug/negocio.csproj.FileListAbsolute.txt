@@ -1,0 +1,36 @@
+D:\MaxiPrograma\U7\LecturaDiscos\negocio\bin\Debug\negocio.dll
+D:\MaxiPrograma\U7\LecturaDiscos\negocio\bin\Debug\negocio.pdb
+D:\MaxiPrograma\U7\LecturaDiscos\negocio\bin\Debug\dominio.dll
+D:\MaxiPrograma\U7\LecturaDiscos\negocio\bin\Debug\dominio.pdb
+D:\MaxiPrograma\U7\LecturaDiscos\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+D:\MaxiPrograma\U7\LecturaDiscos\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+D:\MaxiPrograma\U7\LecturaDiscos\negocio\obj\Debug\negocio.csproj.CopyComplete
+D:\MaxiPrograma\U7\LecturaDiscos\negocio\obj\Debug\negocio.dll
+D:\MaxiPrograma\U7\LecturaDiscos\negocio\obj\Debug\negocio.pdb
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\negocio\bin\Debug\negocio.dll
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\negocio\bin\Debug\negocio.pdb
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\negocio\bin\Debug\dominio.dll
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\negocio\bin\Debug\dominio.pdb
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\negocio\obj\Debug\negocio.csproj.CopyComplete
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\negocio\obj\Debug\negocio.dll
+D:\MaxiPrograma\U7\LecturaDiscosInsertarSimple(Clase 3)\negocio\obj\Debug\negocio.pdb
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\negocio\bin\Debug\negocio.dll
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\negocio\bin\Debug\negocio.pdb
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\negocio\bin\Debug\dominio.dll
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\negocio\bin\Debug\dominio.pdb
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\negocio\obj\Debug\negocio.csproj.CopyComplete
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\negocio\obj\Debug\negocio.dll
+D:\MaxiPrograma\U7\LecturaDiscosInsertarCompleto(Clase 3)\negocio\obj\Debug\negocio.pdb
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\negocio\bin\Debug\negocio.dll
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\negocio\bin\Debug\negocio.pdb
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\negocio\bin\Debug\dominio.dll
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\negocio\bin\Debug\dominio.pdb
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\negocio\obj\Debug\negocio.csproj.Up2Date
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\negocio\obj\Debug\negocio.dll
+D:\MaxiPrograma\Nivel 2\U8\LecturaDiscos\negocio\obj\Debug\negocio.pdb
